@@ -1,5 +1,7 @@
 # hello world
 
+[My First Language Frontend with LLVM Tutorial](https://llvm.org/docs/tutorial/MyFirstLanguageFrontend/index.html)
+
 [LLVM IR 的第一个 Pass](https://zhuanlan.zhihu.com/p/392381317)
 
 
